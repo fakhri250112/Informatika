@@ -1,0 +1,17 @@
+#Type data
+print ("Hallo nama Saya : Rafa")
+print ("Kelas Saya : 9A")
+print ("Hobi Saya : Mendengarkan Musik")
+print ("Cita cita Saya : Duta Besar")
+print (" Saya : 9A")
+#Type data integer /angka
+print (1000)
+print ("1000")
+print (10.50)
+print (True)
+print (False)
+#mengecek tipe data
+print (type ("1000"))
+print (type (1000))
+print (type (10.50))
+print (type (True))
