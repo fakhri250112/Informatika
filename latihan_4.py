@@ -8,8 +8,8 @@ while True:
 """)
     choice=int(input("Tentukan Angka"))
     if choice == 1:
-        p=int(input("Lebar?"))
-        l=int(input("Panjang?"))
+        l=int(input("Lebar?"))
+        p=int(input("Panjang?"))
         print("Luas=", p*l)
     elif choice == 2:
         a=int(input("alas?"))
